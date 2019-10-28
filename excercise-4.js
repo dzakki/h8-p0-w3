@@ -48,10 +48,12 @@ function dataHandling2(arr) {
     }
     console.log(bulan)
 
+    var joinArr = Date.join('-')
+
     var sortArr = Date.sort(function(a, b){return b-a})
     console.log(sortArr)
 
-    var joinArr = Date.join('-')
+    
     console.log(joinArr)
 
     arr[1] = arr[1].slice(0, 15) 
