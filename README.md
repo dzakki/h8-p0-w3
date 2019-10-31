@@ -42,7 +42,37 @@ task week 3 from hactiv8
 //
 [Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-8.js)
 
-## Task 9 | Cari Mean
-[Question]()
+## Task 9 | Cari Mean ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-cari-mean.md)
 //
-[Answer]()
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-9.js)
+
+## Task 10 | Perkalian Unik ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-perkalian-unik.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-10.js)
+
+## Task 11 | Deret Aritmatika ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-deret-aritmatika.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-11.js)
+
+## Task 12 | Deret Geometri ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-deret-geometri.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-12.js)
+
+## Task 13 | Target Terdekat ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-target-terdekat.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-13.js)
+
+## Task 14 | Mengelompokkan Angka ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-kelompok-angka.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-14.js)
+
+## Task 15 | Mengelompokkan Hewan ✔
+[Question](https://github.com/hacktiv8/phase-0-activities/blob/master/modules/challenge-kelompok-hewan.md)
+//
+[Answer](https://github.com/dzakki/h8-p0-w3/blob/master/excercise-15.js)
